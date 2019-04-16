@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# data
+home-credit-default-risk/
+home-credit-default-risk.zip
